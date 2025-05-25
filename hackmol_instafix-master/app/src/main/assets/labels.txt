@@ -1,0 +1,10 @@
+AC vent damage
+Broken tap
+Broken Tile
+Burnt Wire
+Cracked Wall
+Fan blade damage
+Faulty Switch Board
+Leaking Pipe
+Rusty Appliance
+Wall Seepage

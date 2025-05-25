@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749832142774",
+    "project_id": "instafix-57049",
+    "storage_bucket": "instafix-57049.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749832142774:android:c216d53a654d14cf468b17",
+        "android_client_info": {
+          "package_name": "project.hackmol.hackmolinstafix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbUW-AfkCpY8uxCSQdjTE8rLLgrOndDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
